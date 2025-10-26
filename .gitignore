@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+/staticfiles/
+/media/
+
+# Virtualenv
+venv/
+ENV/
+
+# Logs
+*.log
+
+# AWS / Secrets
+*.pem
+*.key
+.env
